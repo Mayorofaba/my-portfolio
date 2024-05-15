@@ -1,0 +1,66 @@
+.subnot {
+    display: none;
+}
+
+
+.showSub {
+    display: flex;
+}
+
+
+.confirm {
+    display: none;
+
+}
+
+.confirm:hover {
+    cursor: pointer;
+}
+
+.sub-container h2 {
+    display: block;
+    margin-top: 20px;
+    padding: 0px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.sub-container {
+    padding: 0 20%;
+    width: 90%;
+    align-items: center;
+
+    justify-content: center;
+}
+
+
+
+.holder {
+    padding-top: 40px;
+    background-color: yellow;
+}
+
+
+
+
+.subtype {
+    text-align: center;
+    /* background-color: black; */
+    padding: 20px;
+    font-weight: 900;
+    font-size: 25px
+    ;
+
+}
+
+
+.sub-container input{
+
+    width: 100px;
+
+}
+
+
